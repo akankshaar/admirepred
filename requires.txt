@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn==1.6.1
+joblib
+argparse
+
+[dev]
+pytest>=7.0
+twine>=4.0.2
